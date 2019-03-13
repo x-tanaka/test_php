@@ -2,12 +2,12 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>PHP test</title>
+<title>XOWAY test</title>
 </head>
 
 <body>
-    <h1>PHP TESTですと</h1>
-    <?php echo "<p>はろー、PHP</p>"; ?>
+    <h1>XOWAY HP_TESTでゲス</h1>
+    <?php echo "<p>はろー、XOWAY</p>"; ?>
     <p>XOWAYテスト用でゲス</p>
 </body>
 </html>
