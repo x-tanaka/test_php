@@ -8,6 +8,6 @@
 <body>
     <h1>PHP TESTですと</h1>
     <?php echo "<p>はろー、PHP</p>"; ?>
-    <p>こんなんでました。</p>
+    <p>XOWAYテスト用でゲス</p>
 </body>
 </html>
